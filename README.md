@@ -1,16 +1,22 @@
 # Hi, I'm Sulfath P M 👋
 
 🎓 MCA Student at Mar Athanasius College of Engineering, Kothamangalam  
+
 💻 Interested in Web Development and Full Stack Applications  
 
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sulfathpm&show_icons=true&theme=radical)
+
+## 💻 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sulfathpm&layout=compact)
-## Skills
+
+## 🚀 Technologies
 - Java
 - Python
+- PHP
 - HTML
 - CSS
-- SQL
+- MySQL
 
 ## Currently Learning
 - Flutter
