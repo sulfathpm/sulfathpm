@@ -5,14 +5,17 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate snake
         uses: Platane/snk@v3
         with:
@@ -20,9 +23,9 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Push to output branch
-        uses: EndBug/add-and-commit@v9
+      - name: Push snake to output branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          add: "dist"
-          message: "Generate contribution snake"
-          new_branch: output
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
