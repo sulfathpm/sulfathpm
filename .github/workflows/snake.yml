@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
@@ -20,7 +20,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Push snake to output branch
+      - name: Push snake
         uses: crazy-max/ghaction-github-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
