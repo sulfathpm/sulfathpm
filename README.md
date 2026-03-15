@@ -13,3 +13,4 @@
 ## Currently Learning
 - Flutter
 - Full Stack Development
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sulfathpm&show_icons=true&theme=radical)
