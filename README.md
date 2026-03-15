@@ -16,3 +16,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sulfathpm&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sulfathpm&layout=compact)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=sulfathpm)](https://github.com/ryo-ma/github-profile-trophy)
