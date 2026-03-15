@@ -24,4 +24,4 @@
 - 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/sulfathpm/sulfathpm/output/github-contribution-grid-snake.gif)
+![Snake animation](https://raw.githubusercontent.com/sulfathpm/sulfathpm/output/github-contribution-grid-snake-dark.svg)
