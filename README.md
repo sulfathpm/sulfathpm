@@ -22,3 +22,5 @@
 - Flutter
 - Full Stack Development
 
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/sulfathpm/sulfathpm/blob/output/github-contribution-grid-snake.svg)
