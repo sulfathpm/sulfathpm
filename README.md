@@ -23,4 +23,4 @@
 - Full Stack Development
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/sulfathpm/sulfathpm/output/github-contribution-grid-snake-dark.svg)
+![Contribution Snake](https://raw.githubusercontent.com/sulfathpm/sulfathpm/output/github-contribution-grid-snake-dark.svg)
